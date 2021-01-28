@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "jobt",
-    "slug": "jobt",
+    "name": "react-native-image-crop-picker",
+    "slug": "react-native-image-crop-picker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,8 +23,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "package": "com.example.jobapp"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
