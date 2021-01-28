@@ -1,0 +1,7 @@
+# Job-Search-App
+
+Job-Search-App is a job finding application developed using React Native and Expo.
+in this app we use facebook and email authentication by using firebase.And the Github Jobs API to fetch jobs nearby the location chosen by the user on the map. 
+Currently the API does not contain information about job openings in India, thus international location has been pinned in the map.
+The application supports tinder-like swipe Animation cards to display jobs, like them and save them for further reference.
+The application has been developed using expo-sqlite,firebase and the Animations module.
