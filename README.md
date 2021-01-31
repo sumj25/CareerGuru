@@ -8,7 +8,7 @@ When we open first time this app then we see these screen which gives the idea a
  
  After this screens we see login and signup screen in which we use facebook and email authentication by  using firebase
  
-  ![gif](https://media.giphy.com/media/pkTuAPV5nM81JSIvuF/giphy.gif)
+  ![gif](https://media.giphy.com/media/x3Zvp08eJpX9q25sTJ/giphy.gif)
  
  After login,the application supports tinder-like swipe Animation cards to display jobs, like them and save them for further reference.
 And the Github Jobs API to fetch jobs nearby the location chosen by the user on the map. 
