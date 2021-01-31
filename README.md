@@ -11,8 +11,20 @@ When we open first time this app then we see these screen which gives the idea a
   ![gif](https://media.giphy.com/media/x3Zvp08eJpX9q25sTJ/giphy.gif)
  
  After login,the application supports tinder-like swipe Animation cards to display jobs, like them and save them for further reference.
+ 
+ 
+   ![gif] (https://media.giphy.com/media/JBzbcs9fMRLIelByhv/giphy.gif)
+
 And the Github Jobs API to fetch jobs nearby the location chosen by the user on the map. 
 Currently the API does not contain information about job openings in India, thus international location has been pinned in the map.
 The application supports tinder-like swipe Animation cards to display jobs, like them and save them for further reference.
 
+
+   ![gif](https://media.giphy.com/media/zs3Asrk41A9Av8BE10/giphy.gif)
+   
+   
 The application has been developed using expo-sqlite,firebase and the Animations module.
+
+For use this code-
+run:-
+npm install expo
